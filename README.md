@@ -22,5 +22,5 @@ Thes were done to access my knowledge and understanding of Python as a programmi
 
 
 
-##Author
-. IBYISHAKA TRESOR THIERRY ALAIN 
+## Author
+-  IBYISHAKA TRESOR THIERRY ALAIN 
