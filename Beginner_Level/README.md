@@ -6,3 +6,4 @@ This is asimple calculator used the Switch case it only has four operation addit
 [Calculator](./Calculator.py)
 This is the image of it 
 ![Calculator-Image](./images/Screenshot%202025-08-25%20191338.png)
+![MadLib Generator](./mad_lib.py)
